@@ -15,14 +15,14 @@ const jobs = [
   },
   {
     period: "2018 — 2020",
-    title: "Senior Software Engineer",
+    title: "Software Engineer",
     company: "AudioEye",
     description:
       "Developed accessibility-focused products used by thousands of websites, including a Chrome extension that empowered customers to implement accessibility improvements independently. Improved application performance, built cross-platform communication systems, and solved large-scale data quality challenges through automation and tooling enhancements.",
   },
   {
     period: "2016 — 2017",
-    title: "Senior Software Engineer",
+    title: "Asscociate Software Engineer",
     company: "Decision Source",
     description:
       "Built responsive web applications for healthcare clients in a fast-paced consulting environment. Contributed across both frontend and backend systems, supporting data migrations, automated testing efforts, and analytics-focused platform improvements while gaining experience working directly with client-driven requirements.",
