@@ -10,7 +10,7 @@ function App() {
         <div className="lg:grid lg:grid-cols-[400px_1fr] gap-20">
           <Sidebar />
 
-          <div className="py-24 space-y-32">
+          <div className="py-8 lg:py-24 space-y-8 lg:space-y-32">
             <About />
             <Experience />
             {/* <Projects /> */}

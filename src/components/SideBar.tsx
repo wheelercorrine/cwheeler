@@ -36,7 +36,7 @@ export default function Sidebar() {
         </ul>
       </nav>
 
-      <div className="flex gap-5 mt-16 ">
+      <div className="flex gap-5 mt-4 lg:mt-16 ">
         <a
           href="https://github.com/wheelercorrine"
           className="hover:text-teal-400"
